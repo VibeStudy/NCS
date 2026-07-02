@@ -13,11 +13,11 @@
 ## 작업 전 문서 확인 규칙
 
 - 파일을 수정하기 전에는 작업 성격과 관련된 인덱스 문서를 먼저 확인
-- 문서 작성/수정/이동/삭제 작업 전에는 [문서 작성 규칙](docs/agent/format.md)을 먼저 확인
-- 커밋/푸시 작업 전에는 [커밋 푸시 규칙](docs/agent/commit-push.md)을 먼저 확인
+- 문서 작성/수정/이동/삭제 작업 전에는 [문서 작성 규칙](agent/format.md)을 먼저 확인
+- 커밋/푸시 작업 전에는 [커밋 푸시 규칙](agent/commit-push.md)을 먼저 확인
 
 ## 인덱스
 
-- [커밋 푸시 규칙](docs/agent/commit-push.md)
+- [커밋 푸시 규칙](agent/commit-push.md)
 
-- [문서 작성 규칙](docs/agent/format.md)
+- [문서 작성 규칙](agent/format.md)
