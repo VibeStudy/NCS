@@ -21,3 +21,5 @@
 - [커밋 푸시 규칙](agent/commit-push.md)
 
 - [문서 작성 규칙](agent/format.md)
+
+- [문제유형 문서 작성 규칙](agent/problem-format.md)
