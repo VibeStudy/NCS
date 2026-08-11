@@ -1,0 +1,4 @@
+interface:
+  display_name: "NCS 문제 생성"
+  short_description: "NCS 개념 노트 기반 유사 문제와 풀이 생성 도구"
+  default_prompt: "Use $ncs-problem-generator to create NCS practice questions from the selected notes and problem file."

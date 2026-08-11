@@ -1,0 +1,4 @@
+interface:
+  display_name: "NCS 문제 빈칸 완성"
+  short_description: "NCS 문제의 누락 선지와 정답 및 풀이 완성 도구"
+  default_prompt: "Use $ncs-problem-completer to complete missing parts of the selected NCS problem file."
