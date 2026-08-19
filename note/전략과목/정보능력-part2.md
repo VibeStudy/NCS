@@ -158,19 +158,54 @@
 * alt + f4: 엑셀 종료
 * alt + d: 데이터 메뉴 열기
 * alt + i: 삽입 메뉴 열기
+* alt + =: 선택 범위에 자동 합계 함수 입력
+* ctrl + 1: 셀 서식 대화 상자 열기
+* ctrl + 9: 선택한 행 숨기기
+* ctrl + 0: 선택한 열 숨기기
+* ctrl + a: 현재 데이터 영역 선택(한 번 더 누르면 시트 전체 선택)
+* ctrl + b: 굵게 적용 또는 해제
+* ctrl + c: 복사
+* ctrl + e: 빠른 채우기 실행
 * ctrl + enter: 선택한 여러 셀에 동일한 데이터 동시 입력
+* ctrl + end: 마지막 사용 셀로 이동
+* ctrl + f: 찾기
+* ctrl + h: 바꾸기
 * ctrl + home: A1 셀(시트 맨 처음)로 이동
+* ctrl + i: 기울임꼴 적용 또는 해제
+* ctrl + n: 새 통합 문서 만들기
+* ctrl + o: 통합 문서 열기
 * ctrl + page down: 다음 시트로 이동
 * ctrl + page up: 이전 시트로 이동
+* ctrl + p: 인쇄
+* ctrl + r: 왼쪽 셀 내용을 오른쪽 셀에 복사(채우기 오른쪽)
+* ctrl + s: 저장
 * ctrl + space bar: 열 전체 선택
+* ctrl + t: 선택 범위를 표로 변환
+* ctrl + u: 밑줄 적용 또는 해제
+* ctrl + v: 붙여넣기
+* ctrl + w: 현재 통합 문서 닫기
+* ctrl + x: 잘라내기
+* ctrl + y: 다시 실행
 * ctrl + F6: 다음 통합 문서 창으로 전환
+* ctrl + 방향키: 현재 데이터 영역의 끝으로 이동
+* ctrl + ;: 현재 날짜 입력
+* ctrl + `: 수식과 결과값 표시 전환
+* ctrl + alt + v: 선택하여 붙여넣기 대화 상자 열기
+* ctrl + shift + 9: 숨긴 행 표시
+* ctrl + shift + 0: 숨긴 열 표시
+* ctrl + shift + ;: 현재 시간 입력
+* ctrl + shift + 방향키: 현재 데이터 영역 끝까지 범위 확장 선택
 * ctrl + shift + end: 현재 셀부터 마지막 사용 셀까지 범위 선택
+* ctrl + shift + l: 자동 필터 적용 또는 해제
 * ctrl + -: 선택한 셀·행·열 삭제
+* ctrl + +: 셀·행·열 삽입
 * ctrl + d: 위 셀 내용을 아래 셀에 복사(채우기 아래)
 * ctrl + z: 실행 취소
+* esc: 셀 입력 또는 명령 취소
 * shift + f2: 메모 삽입 또는 편집
 * shift + f3: 함수 삽입 대화 상자 열기
 * shift + enter: 위 셀로 이동(Enter 반대 방향)
+* shift + f11: 새 워크시트 삽입
 * shift + space bar: 행 전체 선택
 * shift + delete: 잘라내기
 * shift + insert: 붙여넣기
@@ -179,6 +214,7 @@
 * f2: 현재 셀 편집 모드 진입(커서를 내용 끝에 위치)
 * f4: 함수식 범위 지정시 절대참조 
 * f7: 맞춤법 검사 실행
+* f9: 모든 열린 통합 문서의 수식 계산
 * home: 현재 행의 A열(맨 왼쪽)으로 이동
 * tab: 오른쪽 셀로 이동
 * enter: 입력
