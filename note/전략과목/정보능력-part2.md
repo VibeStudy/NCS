@@ -164,9 +164,12 @@
 * ctrl + page up: 이전 시트로 이동
 * ctrl + space bar: 열 전체 선택
 * ctrl + F6: 다음 통합 문서 창으로 전환
+* ctrl + shift + end: 현재 셀부터 마지막 사용 셀까지 범위 선택
 * ctrl + -: 선택한 셀·행·열 삭제
 * ctrl + d: 위 셀 내용을 아래 셀에 복사(채우기 아래)
 * ctrl + z: 실행 취소
+* shift + f2: 메모 삽입 또는 편집
+* shift + f3: 함수 삽입 대화 상자 열기
 * shift + enter: 위 셀로 이동(Enter 반대 방향)
 * shift + space bar: 행 전체 선택
 * shift + delete: 잘라내기
@@ -175,6 +178,7 @@
 * f1: 도움말 열기
 * f2: 현재 셀 편집 모드 진입(커서를 내용 끝에 위치)
 * f4: 함수식 범위 지정시 절대참조 
+* f7: 맞춤법 검사 실행
 * home: 현재 행의 A열(맨 왼쪽)으로 이동
 * tab: 오른쪽 셀로 이동
 * enter: 입력
