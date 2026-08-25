@@ -7,12 +7,12 @@ description: Create or extend Korean NCS practice-problem Markdown files from a 
 
 문제 파일의 기존 출제 형식과 참조 노트의 개념만 사용해 NCS 연습문제를 작성한다.
 
-공통 문항 양식은 저장소 `agent/problem-format.md`를 단일 기준으로 삼는다.
+공통 문항 양식은 저장소 `docs/problem-format.md`를 단일 기준으로 삼는다.
 
 ## 작업 순서
 
 1. 파일 수정 전 저장소 `AGENTS.md`를 읽는다.
-2. `agent/format.md`, `agent/problem-format.md`를 읽는다.
+2. `docs/format.md`, `docs/problem-format.md`를 읽는다.
 3. 대상 문제 파일 전체와 사용자가 지정한 참조 노트의 관련 단원을 읽는다. 사용자가 노트를 지정하지 않았으면 문제 파일의 과목명과 연결된 `note/` 문서를 찾아 관련 단원만 읽는다.
 4. 기존 문제의 지문 구조, 선지 수, 정답 표기, 풀이 유무를 유지한다.
 5. 요청한 정확한 문항 수만 추가한다. 기존 문항은 사용자가 요청하지 않으면 바꾸지 않는다.
@@ -50,4 +50,4 @@ Q. 다음은 R사 영업부 사원의 일일업무일지이다. 업무 일지 �
 
 * 각 문항에서 정답에 해당하는 보기와 풀이의 개수가 일치하는지 확인한다.
 * 모든 선지가 질문 조건(적절함, 부적절함, 개수)에 맞는지 다시 확인한다.
-* `agent/problem-format.md`의 제목·문항 수·구분선·정답 형식을 검사한다.
+* `docs/problem-format.md`의 제목·문항 수·구분선·정답 형식을 검사한다.

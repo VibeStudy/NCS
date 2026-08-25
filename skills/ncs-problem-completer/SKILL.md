@@ -7,11 +7,11 @@ description: Complete missing parts of Korean NCS practice-problem Markdown file
 
 미완성 NCS 문제의 누락 부분만 참조 노트 근거로 완성한다.
 
-공통 문항 양식은 저장소 `agent/problem-format.md`를 단일 기준으로 삼는다.
+공통 문항 양식은 저장소 `docs/problem-format.md`를 단일 기준으로 삼는다.
 
 ## 작업 순서
 
-1. 파일 수정 전 저장소 `AGENTS.md`, `agent/format.md`, `agent/problem-format.md`를 읽는다.
+1. 파일 수정 전 저장소 `AGENTS.md`, `docs/format.md`, `docs/problem-format.md`를 읽는다.
 2. 대상 문제 파일 전체를 읽고, 빈칸의 범위를 확인한다.
 3. 과목명에 맞는 `note/` 문서를 찾거나 사용자가 지정한 참조 노트의 관련 단원을 읽는다.
 4. 지문 조건과 노트 개념을 각각 대조해 정답을 확정한다.
@@ -45,6 +45,6 @@ A씨는 요리 방법을 적은 문서를 분류해 책으로 출판하였다. �
 
 ## 검토
 
-* `agent/problem-format.md`의 선지·정답·풀이 형식을 확인한다.
+* `docs/problem-format.md`의 선지·정답·풀이 형식을 확인한다.
 * 풀이가 정답의 직접 근거를 설명하는지 확인한다.
 * 문제의 기존 형식, 단원 문항 수, 문항 사이 `---`를 확인한다.
