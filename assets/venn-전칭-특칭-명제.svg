@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="460" viewBox="0 0 720 460" role="img" aria-labelledby="title description">
+  <title id="title">전칭과 특칭 명제 벤다이어그램</title>
+  <desc id="description">A는 B 안에 있고, B와 C의 공통 부분에 존재를 나타내는 점이 있다.</desc>
+  <rect width="720" height="460" fill="white"/>
+  <g fill="#111" font-family="Apple SD Gothic Neo, AppleGothic, Arial, sans-serif">
+    <text x="48" y="52" font-size="26">모든 A는 B다</text>
+    <text x="48" y="88" font-size="26">어떤 B는 C다</text>
+  </g>
+  <g fill="none" stroke="#111" stroke-width="3">
+    <ellipse cx="270" cy="280" rx="205" ry="135"/>
+    <ellipse cx="220" cy="290" rx="88" ry="66"/>
+    <ellipse cx="485" cy="290" rx="175" ry="125"/>
+  </g>
+  <g fill="#111" font-family="Arial, sans-serif" font-size="34">
+    <text x="258" y="187">B</text>
+    <text x="205" y="301">A</text>
+    <text x="500" y="218">C</text>
+  </g>
+  <circle cx="370" cy="290" r="9" fill="#111"/>
+  <text x="389" y="299" fill="#111" font-family="Apple SD Gothic Neo, AppleGothic, Arial, sans-serif" font-size="22">어떤 B이면서 C</text>
+</svg>

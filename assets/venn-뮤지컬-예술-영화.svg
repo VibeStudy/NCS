@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="460" viewBox="0 0 720 460" role="img" aria-labelledby="title description">
+  <title id="title">뮤지컬, 예술, 영화 선호 관계 벤다이어그램</title>
+  <desc id="description">뮤지컬을 좋아하는 사람의 집합은 예술을 좋아하는 사람의 집합 안에 있으며, 뮤지컬과 영화 집합의 겹치는 부분에 한 사람이 존재한다.</desc>
+  <rect width="720" height="460" fill="white"/>
+  <g fill="#111" font-family="Apple SD Gothic Neo, AppleGothic, Arial, sans-serif">
+    <text x="48" y="52" font-size="25">뮤지컬을 좋아하는 모든 사람은 예술을 좋아한다</text>
+    <text x="48" y="88" font-size="25">뮤지컬을 좋아하는 어떤 사람은 영화를 좋아한다</text>
+  </g>
+  <g fill="none" stroke="#111" stroke-width="3">
+    <ellipse cx="270" cy="280" rx="208" ry="135"/>
+    <ellipse cx="240" cy="290" rx="125" ry="88"/>
+    <ellipse cx="420" cy="295" rx="165" ry="120"/>
+  </g>
+  <g fill="#111" font-family="Apple SD Gothic Neo, AppleGothic, Arial, sans-serif" font-size="27">
+    <text x="236" y="184">예술</text>
+    <text x="180" y="301">뮤지컬</text>
+    <text x="463" y="220">영화</text>
+  </g>
+  <circle cx="340" cy="292" r="9" fill="#111"/>
+  <text x="360" y="301" fill="#111" font-family="Apple SD Gothic Neo, AppleGothic, Arial, sans-serif" font-size="21">어떤 사람</text>
+</svg>
