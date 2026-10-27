@@ -30,7 +30,7 @@
     - [Windows 단축키](정보능력-part2.md#windows-단축키)
     - [Excel 함수식](정보능력-part2.md#excel-함수식)
     - [Excel 단축키](정보능력-part2.md#excel-단축키)
-    - [Excel 기본 작업(3)](정보능력-part2.md#excel-기본-작업3)
+    - [Excel 기본 작업(7)](정보능력-part2.md#excel-기본-작업7)
     - [파워포인트 단축키](정보능력-part2.md#파워포인트-단축키)
     - [문서 작성 용어](정보능력-part2.md#문서-작성-용어)
     - [워드프로세서 단축키](정보능력-part2.md#워드프로세서-단축키)
@@ -236,7 +236,7 @@
 * page down: 아래쪽으로 한 화면 이동
 * page up: 위쪽으로 한 화면 이동
 
-### Excel 기본 작업(3)
+### Excel 기본 작업(7)
 
 * 데이터 입력
     * 음수 입력
@@ -324,6 +324,76 @@
     * 시트 탭 색 변경: 시트 탭을 마우스 오른쪽 버튼으로 클릭 → [탭 색] → 색 선택
 
 > 참고: [Microsoft 데이터 입력 안내](https://support.microsoft.com/en-US/Excel/enter-data-manually-in-worksheet-cells), [Microsoft 셀 서식 안내](https://learn.microsoft.com/en-us/troubleshoot/microsoft-365-apps/excel/format-cells-settings), [Microsoft 연속 데이터 채우기 안내](https://support.microsoft.com/en-us/excel/enter-a-series-of-numbers-dates-or-other-items)
+
+* 셀 편집과 서식
+    * 셀 내용 수정: 셀을 두 번 클릭하거나 `F2`를 눌러 편집하며, 수식 입력줄에서도 수정 가능
+
+    * 내용 지우기: 셀 선택 후 `Delete` → 값과 수식은 지워지지만 셀 서식은 유지
+
+    * 서식 지우기: [홈] → [지우기] → [서식 지우기] → 내용은 유지하고 표시 형식·테두리 등의 서식 제거
+
+    * 셀 삭제: 셀 자체를 제거하고 주변 셀을 왼쪽 또는 위쪽으로 이동 → 내용만 지우는 작업과 구분
+
+    * 셀 삽입: 기존 셀을 오른쪽 또는 아래쪽으로 밀어 새 셀이 들어갈 공간 확보
+
+    * 열 너비·행 높이 조절: 열 머리글 오른쪽 경계나 행 머리글 아래쪽 경계를 드래그
+
+    * 자동 맞춤: 해당 머리글 경계를 두 번 클릭하여 내용에 맞게 열 너비 또는 행 높이 조절
+
+    * 자동 줄 바꿈: 셀 너비에 맞춰 내용을 여러 줄로 표시하며, 셀 안에 직접 줄 바꿈을 넣는 `Alt + Enter`와 구분
+
+    * 행·열 숨기기: 화면에서 보이지 않게 처리하며, 데이터 자체는 삭제되지 않음
+
+> 참고: [Microsoft 지우기 안내](https://support.microsoft.com/en-US/Excel/clear-cells-of-contents-or-formats), [Microsoft 행 높이·열 너비 안내](https://support.microsoft.com/en-us/excel/change-the-column-width-and-row-height)
+
+* 선택하여 붙여넣기
+    * 실행: 범위 복사 → 대상 셀 선택 → `Ctrl + Alt + V`
+
+    * 값 붙여넣기: 수식 대신 계산 결과만 붙여넣기 → 이후 원본 값이 바뀌어도 붙여넣은 결과는 연동되지 않음
+
+    * 수식 붙여넣기: 서식 없이 수식만 복사하며, 상대참조는 붙여넣은 위치에 따라 달라질 수 있음
+
+    * 서식 붙여넣기: 값과 수식은 유지하고 원본의 셀 서식만 적용
+
+    * 행/열 바꿈: 가로로 배열된 데이터를 세로로, 세로로 배열된 데이터를 가로로 배치
+
+    * 연결하여 붙여넣기: 원본 셀을 참조하는 수식을 만들어 원본 변경 사항을 반영
+
+    * 연산 붙여넣기: 복사한 값을 대상 값에 더하기·빼기·곱하기·나누기 → `10`을 복사하여 [곱하기] 선택 시 대상 값이 10배로 변경
+
+> 참고: [Microsoft 붙여넣기 옵션 안내](https://support.microsoft.com/en-us/excel/paste-options)
+
+* 화면 보기
+    * 틀 고정: 스크롤해도 특정 행과 열이 계속 보이도록 설정
+
+    * 고정 범위: 선택한 셀의 위쪽 행과 왼쪽 열이 고정 → `C3` 선택 후 틀 고정 시 `1~2행`과 `A~B열` 고정
+
+    * 첫 행·첫 열 고정: [보기] → [틀 고정]에서 [첫 행 고정] 또는 [첫 열 고정] 선택
+
+    * 틀 고정 취소: [보기] → [틀 고정] → [틀 고정 취소]
+
+    * 창 나누기: 같은 워크시트를 여러 영역으로 나누어 떨어진 위치의 데이터를 함께 확인
+
+    * 틀 고정과 인쇄 제목 구분: 틀 고정은 화면 스크롤용이며, 인쇄할 때 제목 행을 반복하려면 인쇄 제목을 별도로 설정
+
+> 참고: [Microsoft 틀 고정 안내](https://support.microsoft.com/en-us/excel/get-started/freeze-panes-to-lock-rows-and-columns)
+
+* 인쇄 설정
+    * 인쇄 영역: 출력할 셀 범위를 선택 → [페이지 레이아웃] → [인쇄 영역] → [인쇄 영역 설정]
+
+    * 여러 인쇄 영역: 떨어진 범위를 각각 인쇄 영역으로 지정하면 각 영역을 별도 페이지로 인쇄
+
+    * 인쇄 제목: 여러 페이지에 걸쳐 인쇄할 때 지정한 행이나 열을 각 페이지에 반복 출력
+
+    * 반복할 행 예시: [인쇄 제목]의 [반복할 행]에 `$1:$1` 지정 → 각 페이지 위쪽에 첫 번째 행 반복
+
+    * 페이지 설정: 용지 방향·용지 크기·여백·배율 등을 조절
+
+    * 페이지 나누기 미리 보기: 인쇄 페이지가 나뉘는 위치를 확인하고 조정
+
+    * 인쇄 머리글 구분: 행 번호·열 문자와 사용자가 입력한 제목 행은 서로 다르며, 행 번호·열 문자는 기본적으로 인쇄되지 않음
+
+> 참고: [Microsoft 인쇄 영역 안내](https://support.microsoft.com/en-us/excel/set-or-clear-a-print-area-on-a-worksheet), [Microsoft 인쇄 제목 안내](https://support.microsoft.com/en-us/excel/repeat-specific-rows-or-columns-on-every-printed-page), [Microsoft 페이지 설정 안내](https://support.microsoft.com/en-us/excel/page-setup), [Microsoft 행·열 머리글 인쇄 안내](https://support.microsoft.com/en-us/excel/print-row-and-column-headings)
 
 ### 파워포인트 단축키
 

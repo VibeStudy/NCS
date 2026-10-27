@@ -30,7 +30,7 @@
     - [Windows 단축키](정보능력-part2.md#windows-단축키)
     - [Excel 함수식](정보능력-part2.md#excel-함수식)
     - [Excel 단축키](정보능력-part2.md#excel-단축키)
-    - [Excel 기본 작업(3)](정보능력-part2.md#excel-기본-작업3)
+    - [Excel 기본 작업(7)](정보능력-part2.md#excel-기본-작업7)
     - [파워포인트 단축키](정보능력-part2.md#파워포인트-단축키)
     - [문서 작성 용어](정보능력-part2.md#문서-작성-용어)
     - [워드프로세서 단축키](정보능력-part2.md#워드프로세서-단축키)
