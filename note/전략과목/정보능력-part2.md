@@ -1,5 +1,7 @@
 # 정보능력-part2
 
+> 공식 자료: [학습자용](https://www.ncs.go.kr/common/file/viewFile2.do?mgmtNo=40) · [교수자용](https://www.ncs.go.kr/common/file/viewFile2.do?mgmtNo=39) · [학습내용 확인하기](https://www.ncs.go.kr/common/file/viewFile2.do?mgmtNo=41)
+
 ## 목차
 
 - [정보능력의 기초(6)](정보능력-part1.md#정보능력의-기초6)

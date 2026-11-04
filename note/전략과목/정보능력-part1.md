@@ -1,5 +1,7 @@
 # 정보능력-part1
 
+> 공식 자료: [학습자용](https://www.ncs.go.kr/common/file/viewFile2.do?mgmtNo=40) · [교수자용](https://www.ncs.go.kr/common/file/viewFile2.do?mgmtNo=39) · [학습내용 확인하기](https://www.ncs.go.kr/common/file/viewFile2.do?mgmtNo=41)
+
 > 기준 자료: [NCS 정보능력 학습자용 가이드북](https://www.ncs.go.kr/common/file/viewFile2.do?mgmtNo=40)의 G-1 정보능력, G-2-가 컴퓨터활용능력, G-2-나 정보처리능력 순서로 구성하고, 기존 보충 개념은 관련 단원에 배치함.
 
 ## 목차
